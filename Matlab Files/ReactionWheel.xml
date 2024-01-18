@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Created by="" on="01/18/24||14:43:08" using="Simscape Multibody Link Version 7.0" from="SolidWorks 28.4.0"/>
+<Created by="" on="01/18/24||15:19:10" using="Simscape Multibody Link Version 7.0" from="SolidWorks 28.4.0"/>
 <ModelUnits mass="kilogram" length="millimeter"/>
 <DataUnits mass="kilogram" length="meter"/>
-<RootAssembly name="Pendulum assembly" uid="Pendulum assembly" version="359">
+<RootAssembly name="Pendulum assembly" uid="Pendulum assembly" version="476">
 <AssemblyFile name="Pendulum assembly.SLDASM" type="SolidWorks Assembly"/>
 <InstanceTree>
 <Instance name="Pendulum Assem-1" uid="Pendulum Assem-1" entityUid="Pendulum Assem" rigid="true">
@@ -603,7 +603,7 @@
 </Constraints>
 </RootAssembly>
 <Assemblies>
-<Assembly name="Pendulum Assem" uid="Pendulum Assem" version="118">
+<Assembly name="Pendulum Assem" uid="Pendulum Assem" version="120">
 <ModelUnits mass="kilogram" length="millimeter"/>
 <AssemblyFile name="Pendulum Assem.SLDASM" type="SolidWorks Assembly"/>
 </Assembly>
@@ -914,7 +914,7 @@
 <Shininess>0.3125</Shininess>
 </VisualProperties>
 </Part>
-<Part name="socket head cap screw_iso" uid="socket head cap screw_iso*:*ISO 4762 M3 x 12 - 12N" version="1759">
+<Part name="socket head cap screw_iso" uid="socket head cap screw_iso*:*ISO 4762 M3 x 12 - 12N" version="1761">
 <ModelUnits mass="kilogram" length="millimeter"/>
 <PartFile name="socket head cap screw_iso.sldprt" type="SolidWorks Part"/>
 <MassProperties>
@@ -931,7 +931,7 @@
 <Shininess>0.3125</Shininess>
 </VisualProperties>
 </Part>
-<Part name="socket head cap screw_iso" uid="socket head cap screw_iso*:*ISO 4762 M3 x 5 - 5N" version="1539">
+<Part name="socket head cap screw_iso" uid="socket head cap screw_iso*:*ISO 4762 M3 x 5 - 5N" version="1541">
 <ModelUnits mass="kilogram" length="millimeter"/>
 <PartFile name="socket head cap screw_iso.sldprt" type="SolidWorks Part"/>
 <MassProperties>

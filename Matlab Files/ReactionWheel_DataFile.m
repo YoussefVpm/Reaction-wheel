@@ -569,7 +569,7 @@ smiData.PlanarJoint(1).ID = '[Pendulum Assem-1:-:Encoder mount-1]';
 smiData.RevoluteJoint(3).Rz.Pos = 0.0;
 smiData.RevoluteJoint(3).ID = '';
 
-smiData.RevoluteJoint(1).Rz.Pos = -74.46417909747305;  % deg
+smiData.RevoluteJoint(1).Rz.Pos = 0;  % deg
 smiData.RevoluteJoint(1).ID = '[Pendulum Assem-1:-:Wheel-1]';
 
 smiData.RevoluteJoint(2).Rz.Pos = -5.6607727892661996;  % deg
